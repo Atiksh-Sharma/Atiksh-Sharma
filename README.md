@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?<br>Atiksh Sharma This Side</h1>
+<h1 align="center">Hey 👋 What's Up?<br><b>Atiksh Sharma This Side</b></h1>
 
 ###
 
