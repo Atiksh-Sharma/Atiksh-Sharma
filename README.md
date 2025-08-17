@@ -22,6 +22,9 @@
   <a href="https://www.linkedin.com/in/atiksh-sharma-8375a5338" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://www.hackerrank.com/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
 </p>
 
 ###
