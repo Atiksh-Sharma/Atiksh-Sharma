@@ -1,22 +1,52 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
-<h3 align="center">B Tech CSE Student Interested in Leaning New Things and Solving Real World Problems</h3>
+<h1 align="center">Hey 👋 What's Up?<br>Atiksh Sharma This Side</h1>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" alt="coding gif" />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/atiksh-sharma-260b77330/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<h2 align="center">💫 About Me</h2>
+
+<p align="center">
+  🎓 B Tech CSE Student Interested in Learning New Things and Solving Real World Problems.  
+  <br><br>
+  🌱 Currently exploring new technologies and improving my coding skills.  
+  <br><br>
+  📫 Connect with me on  
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/atiksh-sharma-8375a5338" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
+
+###
+
+<h2 align="center">🚀 Skills</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
 </div>
+
+###
+
+<h2 align="center">📂 Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Atiksh-Sharma/My_Repository/blob/main/Mini%20Project%201.py"><u>🔹 Project 1</u></a>  
+  <br>
+  📌 A Game made using Python for Guessing the Correct Number.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Atiksh-Sharma/My_Repository/blob/main/Mini%20Project%202.py"><u>🔹 Project 2</u></a>  
+  <br>
+  📌 A Random Password Generator made using Python.
+</p>
 
 ###
 
@@ -27,64 +57,22 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atiksh-Sharma/Atiksh-Sharma/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atiksh-Sharma/Atiksh-Sharma/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Atiksh-Sharma/Atiksh-Sharma/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atiksh-Sharma&style=for-the-badge&color=blue" alt="Visitor Count"/>
+</p>
 
 ###
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">🌟 Motto</h2>
 
-<div align="center">
-
-- 🎓 B Tech CSE Student  
-- 📌 Interested in Leaning New Things and Solving Real World Problems  
-- 🌍 Based in India  
-
-</div>
+<p align="center"><i>"Keep Learning, Keep Building 🚀"</i></p>
 
 ###
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">🎉 Fun Facts</h2>
 
-<div align="center">
-
-- [Mini Project 1](https://github.com/Atiksh-Sharma/My_Repository/blob/main/Mini%20Project%201.py)  
-  *A Game made using Python for Guessing the Correct Number.*  
-
-- [Mini Project 2](https://github.com/Atiksh-Sharma/My_Repository/blob/main/Mini%20Project%202.py)  
-  *A Random Password Generator made using Python.*  
-
-</div>
-
-###
-
-<h2 align="center">📊 Visitor Count</h2>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atiksh-Sharma&style=for-the-badge&color=blue" alt="visitor badge"/>
-</div>
-
-###
-
-<h2 align="center">💡 Motto</h2>
-
-<div align="center">
-
-*"Keep Learning, Keep Building 🚀"*  
-
-</div>
-
-###
-
-<h2 align="center">🎉 Fun Section</h2>
-
-<div align="center">
-
-- 💻 I enjoy experimenting with new coding projects  
-- 🎮 Gaming & Music keep me refreshed  
-- 🧩 I love solving puzzles and logical problems  
-
-</div>
+<p align="center">
+  ⚡ I can spend hours coding without realizing the time. <br>
+  ⚡ I enjoy learning through building small projects. <br>
+  ⚡ I love solving puzzles.  
+</p>
